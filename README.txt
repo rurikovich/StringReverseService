@@ -1,0 +1,1 @@
+Simple SOAP service created using Spring WS
